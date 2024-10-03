@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "automation_in_github": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7277",
+      "launchBrowser": false
+    }
+  }
+}
