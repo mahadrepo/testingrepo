@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "automation_in_github": {
+    "YourFunctionApp": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7221",
+      "commandLineArgs": "--port 7297",
       "launchBrowser": false
     }
   }
